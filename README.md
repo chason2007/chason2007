@@ -17,4 +17,4 @@ and ship ML pipelines in Python — often aimed at the UAE and India markets.
 - [WorkSync](https://github.com/chason2007/worksync) — employee management system (MERN)
 - [UAE Rent vs Buy](https://github.com/chason2007/uae-rent-vs-buy) — home-cost calculator
 
-📫 [your email] · [LinkedIn URL] · [portfolio URL]
+📫 chase.hurtis@gmail.com · https://www.linkedin.com/in/chason-hurtis-666662328/
