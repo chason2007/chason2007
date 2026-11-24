@@ -1,20 +1,19 @@
 ### Hi, I'm Chason 👋
 
-Full-stack & data-science developer. I build production SaaS with Next.js
-and ship ML pipelines in Python — often aimed at the UAE and India markets.
+Full-stack developer. I build production web apps and SaaS with Next.js
+and the MERN stack — often aimed at the UAE and India markets.
 
-- 🔭 Building compliance & real-estate tools (Sanad, BHOOMIQ)
-- 🌱 Going deeper on backend (Spring Boot) and data engineering
-- 💬 Ask me about Next.js, Supabase, multi-tenant SaaS, or applied ML
+- 🔭 Building compliance & PropTech tools (Sanad, WorkSync)
+- 🌱 Going deeper on backend with Spring Boot
+- 💬 Ask me about Next.js, React, Supabase, and multi-tenant SaaS
 
 **Stack**
-`TypeScript` · `React / Next.js` · `Node / Express` · `Python` · `Java / Spring Boot`
-`PostgreSQL · Supabase` · `MongoDB` · `Stripe` · `XGBoost · scikit-learn · SHAP`
+`TypeScript` · `JavaScript` · `React / Next.js` · `Node / Express` · `Java / Spring Boot` · `Python`
+`PostgreSQL · Supabase` · `MongoDB` · `Stripe`
 
 **Selected work**
 - [Sanad](https://github.com/chason2007/sanad) — UAE document-expiry & compliance SaaS · Next.js · Supabase · Stripe
-- [BHOOMIQ](https://github.com/chason2007/ds_project) — real-estate price ML + Streamlit dashboard
 - [WorkSync](https://github.com/chason2007/worksync) — employee management system (MERN)
-- [Breakeven](https://github.com/chason2007/breakeven) — home-cost vs. rent calculator
+- [Breakeven](https://github.com/chason2007/breakeven) — home-cost vs rent calculator (Next.js)
 
 📫 chase.hurtis@gmail.com · https://www.linkedin.com/in/chason-hurtis-666662328/
