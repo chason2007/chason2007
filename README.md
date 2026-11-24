@@ -15,6 +15,6 @@ and ship ML pipelines in Python — often aimed at the UAE and India markets.
 - [Sanad](https://github.com/chason2007/sanad) — UAE document-expiry & compliance SaaS · Next.js · Supabase · Stripe
 - [BHOOMIQ](https://github.com/chason2007/ds_project) — real-estate price ML + Streamlit dashboard
 - [WorkSync](https://github.com/chason2007/worksync) — employee management system (MERN)
-- [UAE Rent vs Buy](https://github.com/chason2007/uae-rent-vs-buy) — home-cost calculator
+- [Breakeven](https://github.com/chason2007/breakeven) — home-cost vs. rent calculator
 
 📫 chase.hurtis@gmail.com · https://www.linkedin.com/in/chason-hurtis-666662328/
