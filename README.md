@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Chason 👋
 
-<!--
-**chason2007/chason2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack & data-science developer. I build production SaaS with Next.js
+and ship ML pipelines in Python — often aimed at the UAE and India markets.
 
-Here are some ideas to get you started:
+- 🔭 Building compliance & real-estate tools (Sanad, BHOOMIQ)
+- 🌱 Going deeper on backend (Spring Boot) and data engineering
+- 💬 Ask me about Next.js, Supabase, multi-tenant SaaS, or applied ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack**
+`TypeScript` · `React / Next.js` · `Node / Express` · `Python` · `Java / Spring Boot`
+`PostgreSQL · Supabase` · `MongoDB` · `Stripe` · `XGBoost · scikit-learn · SHAP`
+
+**Selected work**
+- [Sanad](https://github.com/chason2007/sanad) — UAE document-expiry & compliance SaaS · Next.js · Supabase · Stripe
+- [BHOOMIQ](https://github.com/chason2007/ds_project) — real-estate price ML + Streamlit dashboard
+- [WorkSync](https://github.com/chason2007/worksync) — employee management system (MERN)
+- [UAE Rent vs Buy](https://github.com/chason2007/uae-rent-vs-buy) — home-cost calculator
+
+📫 [your email] · [LinkedIn URL] · [portfolio URL]
