@@ -16,4 +16,5 @@ and the MERN stack — often aimed at the UAE and India markets.
 - [WorkSync](https://github.com/chason2007/worksync) — employee management system (MERN)
 - [Breakeven](https://github.com/chason2007/breakeven) — home-cost vs rent calculator (Next.js)
 
-📫 chase.hurtis@gmail.com · https://www.linkedin.com/in/chason-hurtis-666662328/
+📫 chase.hurtis@gmail.com · https://www.linkedin.com/in/chason-hurtis-666662328/ · https://churtis.vercel.app
+
